@@ -11,6 +11,7 @@ Add any kexts which are required in OC auxilary tools. If going below BigSur/Mon
 Set Securebootmodel according to the OC Guide
 Enable XHCIPORTLIMIT
 If your optiplex variant has a wireless lan please add itwlmkext for internet. This EFI only has IntelMausi.kext
+
 good luck. If any issues are known post it in issues, i will check and fix it.
 Untested-:
 DVD Rewritable Drive
